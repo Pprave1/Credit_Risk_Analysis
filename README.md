@@ -49,7 +49,7 @@ For Deliverable 1 ,created training and targeted variables and used LogisticRegr
    ![Over_Under_sampling_combo.png](Images/Over_Under_sampling_combo.png)
    
    
-   Balanced Accuracy :0.5107398543980726
+   Balanced Accuracy : 0.5107398543980726
     
    Precision : Precision low for high risk loans and high for Low-risk loans.
    
@@ -80,9 +80,9 @@ For Deliverable 1 ,created training and targeted variables and used LogisticRegr
    Recall : 0.91/0.94
    
    
-   ## Summary
-     
-       After eavluating all models,utilizing Easy Ensemble Classifier,is the most effective,which provided highest score for risk loans. Regarding balanced accuracy,the highest compared accuracy between 0 and 1  and is closest to 1 is the best machine learning model. From this credit data set ,Easy Ensemble classifier is the best model to choose with its 0.93 balanced accuracy. The other models were below 0.90 balanced accuracy. The precision for all models were similar with an appropriate range. The Easy Ensemble has the highest recall score which is close to 1 being the better model.
+ ## Summary
+ 
+After eavluating all models,utilizing Easy Ensemble Classifier,is the most effective,which provided highest score for risk loans. Regarding balanced accuracy,the highest compared accuracy between 0 and 1  and is closest to 1 is the best machine learning model. From this credit data set ,Easy Ensemble classifier is the best model to choose with its 0.93 balanced accuracy. The other models were below 0.90 balanced accuracy. The precision for all models were similar with an appropriate range. The Easy Ensemble has the highest recall score which is close to 1 being the better model.
    
    
    
