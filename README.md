@@ -12,6 +12,26 @@ For Deliverable 1 ,created training and targeted variables and used LogisticRegr
 
     ### Naive Random Oversampling
     
+    
+    ![random_oversampling.png](Images/random_oversampling.png)
+    
+   Balanced Accuracy : 0.6434595968752392
+   Precision : Precision low for high risk loans and high for Low-risk loans.
+   Recall : 0.64/0.64
+   
+   ### SMOTE Oversampling
+   ![smote_oversampling.png](Images/smote_oversampling.png)
+   
+   
+    Balanced Accuracy : 0.6295480458158583
+   Precision : Precision low for high risk loans and high for Low-risk loans.
+   Recall : 0.61/0.65
+   
+   
+   ### Undersampling
+   
+   
+   
    
 
    
